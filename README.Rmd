@@ -41,9 +41,13 @@ This is a basic example which shows you how to solve a common problem:
 
 ```{r example}
 library(rAfrica)
-## basic example code
+
+## jumla function
 summation <- jumla(10,20)
 summation
 
+## counter function
+my_tab <- counter(infert, "case")
+my_tab
 ```
 
