@@ -1,0 +1,15 @@
+Package: rAfrica
+Title: This package contains functions that were generated during the RLadies Tunis and RLadies Algeirs joint meetup
+Version: 0.0.1
+Authors@R: 
+    person(given = "Rladies Algeirs",
+           family = "RLadies Tunis",
+           role = c("aut", "cre"),
+           email = "first.last@example.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: This package contains functions that were generated during the RLadies Tunis and RLadies Algeirs joint meetup.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
